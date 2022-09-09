@@ -23,7 +23,7 @@ Automate Your File With Python File Organizer
 
 ```
 
-## Tutorial
+## Demo
 
 <img src="https://github.com/katakkentut/FileOrganizerPython/blob/master/Tutorial/tutorial.gif" width="600" height="600">
 
