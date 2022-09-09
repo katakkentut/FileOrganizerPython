@@ -25,5 +25,6 @@ Automate Your File With Python File Organizer
 
 ## Tutorial
 
-![]<img src="https://github.com/katakkentut/FileOrganizerPython/blob/master/Tutorial/tutorial.gif" width="600" height="600">
+
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)<width="600" height="600">
 
