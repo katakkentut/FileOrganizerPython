@@ -25,5 +25,5 @@ Automate Your File With Python File Organizer
 
 ## Tutorial
 
-![](https://github.com/katakkentut/FileOrganizerPython/blob/master/Tutorial/tutorial.gif)
+![test image size]<img src="https://github.com/katakkentut/FileOrganizerPython/blob/master/Tutorial/tutorial.gif" width="400" height="790">
 
